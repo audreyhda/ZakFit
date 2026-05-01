@@ -1,4 +1,3 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-05-01 at 17 19 42" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
 # 💪 ZakFit
 
 > **A full-stack iOS app for tracking fitness and nutrition — with meal logging, activity tracking, progress charts, and JWT-secured sync across devices.**
@@ -7,32 +6,28 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+  <img width="200" src="https://github.com/user-attachments/assets/3343cd87-569b-4e4b-99b4-ecf29d87eb2c" />
 
-  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+  <img width="200" src="https://github.com/user-attachments/assets/2df0e2cb-b4c4-4958-9a46-32220f40e06a" />
 
-  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+  <img width="200" src="https://github.com/user-attachments/assets/a2215387-6b40-4896-8176-b10e7619c82e" />
 
-  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+  <img width="200" src="https://github.com/user-attachments/assets/5745288c-a54c-4f1c-ba8a-2cd1a90d2ce0" />
 
-  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+  <img width="200" src="https://github.com/user-attachments/assets/8d5d9925-2c7f-4e48-a66a-a462b1ecbf44" />
 
 </div>
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <img src="img1.jpg" style="width: 150px; height: auto;">
-  <img src="img2.jpg" style="width: 150px; height: auto;">
-  <img src="img3.jpg" style="width: 150px; height: auto;">
-  <img src="img4.jpg" style="width: 150px; height: auto;">
-  <img src="img5.jpg" style="width: 150px; height: auto;">
-</div>
-<div align="center">
-<br>
-<a href="https://www.balystick.fr/Github/Tips%20Top.mp4">
-    <img src="https://www.balystick.fr/Github/Tips-Top%20logo.png" alt="Tips Top App" style="width:340px">
-</a>
-<br><br>
-<em>▶ Click the logo to watch the demo video</em>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
+
+  <img width="200" src="https://github.com/user-attachments/assets/b2495926-20f7-4316-b8f8-ae353b02bbfd" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/91344c4f-6789-40ec-8b54-610d9d77ee57" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/960b973f-d20f-4c14-9054-a54f7eae5177" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/71c58742-e7f6-4c37-9750-699716aeabc9" />
+
 </div>
 
 ---
