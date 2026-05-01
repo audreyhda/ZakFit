@@ -1,8 +1,39 @@
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-05-01 at 17 19 42" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
 # 💪 ZakFit
 
 > **A full-stack iOS app for tracking fitness and nutrition — with meal logging, activity tracking, progress charts, and JWT-secured sync across devices.**
 
 *La forme, c'est pas sorcier, c'est Zak !*
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
+
+  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+
+  <img width="200" src="https://github.com/user-attachments/assets/4823c2d6-9763-4647-9f3f-00caa1b35536" />
+
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="img1.jpg" style="width: 150px; height: auto;">
+  <img src="img2.jpg" style="width: 150px; height: auto;">
+  <img src="img3.jpg" style="width: 150px; height: auto;">
+  <img src="img4.jpg" style="width: 150px; height: auto;">
+  <img src="img5.jpg" style="width: 150px; height: auto;">
+</div>
+<div align="center">
+<br>
+<a href="https://www.balystick.fr/Github/Tips%20Top.mp4">
+    <img src="https://www.balystick.fr/Github/Tips-Top%20logo.png" alt="Tips Top App" style="width:340px">
+</a>
+<br><br>
+<em>▶ Click the logo to watch the demo video</em>
+</div>
 
 ---
 
