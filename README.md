@@ -16,7 +16,7 @@
 
 </div>
 
-<div> </div>
+<hr style="display: none;">
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
