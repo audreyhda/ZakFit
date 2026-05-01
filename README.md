@@ -4,6 +4,7 @@
 
 *La forme, c'est pas sorcier, c'est Zak !*
 
+<hr style="display: none;">
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <img width="200" src="https://github.com/user-attachments/assets/3343cd87-569b-4e4b-99b4-ecf29d87eb2c" />
