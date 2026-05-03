@@ -2,7 +2,7 @@
 
 > **A full-stack iOS app for tracking fitness and nutrition — with meal logging, activity tracking, progress charts, and JWT-secured sync across devices.**
 
-*La forme, c'est pas sorcier, c'est Zak !*
+*La forme, c'est pas sorcier, c'est Zak !* 
 
 <hr style="display: none;">
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
